@@ -101,6 +101,29 @@ const tradingMessageIds = { //Madfut22 1.2.5
   1: "I HAVE 0% COLLECTION",
 }
 
+const packetActionHeaders = { //Madfut22
+  readyToStart: "b", 
+  tradingStartAnimatingOutline: "c", 
+  tradingStopAnimatingOutline: "d",
+  tradingPickedCard: "e",
+  tradingDeletedOutline: "f",
+  tradingThumbs: "g",
+  tradingReady: "h",
+  tradingMakeChanges:  "i",
+  tradingCompleteTradeCancel: "j",
+  tradingCompleteTradeAccept: "k",
+  tradingHandshake: "l",
+  tradingEmoteText: "m",
+  tradingEmoteEmoji: "n",
+  tradingPickedPack: "o",
+  tradingBiddingWarBid: "p",
+  tradingCoinsMessage: "r",
+  tradingStartAnimatingCoins: "s",
+  tradingStopAnimatingCoins: "t",
+  fatalCountdown: "u",
+  fatalPick: "v"
+}
+
 const positions = [ //Madfut22 1.2.5
   "CAM",
   "CB",
