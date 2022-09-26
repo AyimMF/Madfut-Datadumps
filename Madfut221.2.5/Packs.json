@@ -1,0 +1,415 @@
+[
+  {
+    "id":"silver_special",
+    "displayName":"SPECIAL SILVER PACK",
+    "description":"Guaranteed Special Silver card. Very valuable pack for getting these extremely rare cards.",
+    "packCover":"pack_cover_silver_special",
+    "price":100000
+  },
+  {
+    "id":"random_special_9",
+    "displayName":"X9 RANDOM SPECIAL PACK",
+    "description":"9 guaranteed Special cards chosen completely RANDOMLY. Probably the best pack in the game...",
+    "packCover":"pack_cover_random_special_9",
+    "price":1350000
+  },
+  {
+    "id":"random_special_8",
+    "displayName":"X8 RANDOM SPECIAL PACK",
+    "description":"8 guaranteed Special cards chosen completely RANDOMLY. Super opportunity to pack the rarest Special cards.",
+    "packCover":"pack_cover_random_special_8",
+    "price":1200000
+  },
+  {
+    "id":"random_special_7",
+    "displayName":"X7 RANDOM SPECIAL PACK",
+    "description":"7 guaranteed Special cards chosen completely RANDOMLY. Super opportunity to pack the rarest Special cards.",
+    "packCover":"pack_cover_random_special_7",
+    "price":1050000
+  },
+  {
+    "id":"bf_five_special",
+    "displayName":"5X SPECIAL PACK",
+    "description":"5 (FIVE!) guaranteed Special cards in one pack. Same odds as in the standard Special pack.",
+    "packCover":"pack_cover_special_x5",
+    "price":450000
+  },
+  {
+    "id":"random_special_6",
+    "displayName":"X6 RANDOM SPECIAL PACK",
+    "description":"6 guaranteed Special cards chosen completely RANDOMLY. Super opportunity to pack the rarest Special cards.",
+    "packCover":"pack_cover_random_special_6",
+    "price":900000
+  },
+  {
+    "id":"random_special_5",
+    "displayName":"X5 RANDOM SPECIAL PACK",
+    "description":"5 guaranteed Special cards chosen completely RANDOMLY. Super opportunity to pack the rarest Special cards.",
+    "packCover":"pack_cover_random_special_5",
+    "price":750000
+  },
+  {
+    "id":"random_special_4",
+    "displayName":"X4 RANDOM SPECIAL PACK",
+    "description":"4 guaranteed Special cards chosen completely RANDOMLY. Super opportunity to pack the rarest Special cards.",
+    "packCover":"pack_cover_random_special_4",
+    "price":600000
+  },
+  {
+    "id":"random_special_3",
+    "displayName":"X3 RANDOM SPECIAL PACK",
+    "description":"3 guaranteed Special cards chosen completely RANDOMLY. Super opportunity to pack the rarest Special cards.",
+    "packCover":"pack_cover_random_special_3",
+    "price":450000
+  },
+  {
+    "id":"random_special_2",
+    "displayName":"X2 RANDOM SPECIAL PACK",
+    "description":"2 guaranteed Special cards chosen completely RANDOMLY. Super opportunity to pack the rarest Special cards.",
+    "packCover":"pack_cover_random_special_2",
+    "price":300000
+  },
+  {
+    "id":"totw",
+    "displayName":"TOTW PACK",
+    "description":"Guaranteed card from the current Team Of The Week (randomly selected) and good pack luck.",
+    "packCover":"pack_cover_totw",
+    "price":100000
+  },
+  {
+    "id":"toty_40",
+    "displayName":"40% TOTY SPECIAL PACK",
+    "description":"40% chance of getting a Team Of The Year card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_toty_40",
+    "price":550000
+  },
+  {
+    "id":"tots_10",
+    "displayName":"10% TOTS SPECIAL PACK",
+    "description":"10% chance of getting a Team Of The Season card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_tots_10",
+    "price":170000
+  },
+  {
+    "id":"gold_super",
+    "displayName":"GOLD SUPER PACK",
+    "description":"Great pack luck, very high chance of packing Special cards and higher-rated gold cards.",
+    "packCover":"pack_cover_gold_super",
+    "price":75000
+  },
+  {
+    "id":"rare",
+    "displayName":"RARE GOLD PACK",
+    "description":"9 Rare Gold cards, and better chances of higher-rated and Special cards than the standard Gold Pack.",
+    "packCover":"pack_cover_rare",
+    "price":20000
+  },
+  {
+    "id":"bf_94_special",
+    "displayName":"94+ OP SPECIAL PACK",
+    "description":"Guaranteed 94 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_94",
+    "price":650000
+  },
+  {
+    "id":"random_special_1",
+    "displayName":"X1 RANDOM SPECIAL PACK",
+    "description":"1 guaranteed Special card chosen completely RANDOMLY. Super opportunity to pack the rarest Special cards.",
+    "packCover":"pack_cover_random_special_1",
+    "price":150000
+  },
+  {
+    "id":"bf_eight_special",
+    "displayName":"8X SPECIAL PACK",
+    "description":"8 (EIGHT!) guaranteed Special cards in one pack. Same odds as in the standard Special pack.",
+    "packCover":"pack_cover_special_x8",
+    "price":600000
+  },
+  {
+    "id":"tots_100",
+    "displayName":"100% TOTS SPECIAL PACK",
+    "description":"Guaranteed Team Of The Season (TOTS) card in every pack! Plus, a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_tots",
+    "price":600000
+  },
+  {
+    "id":"bf_89_special",
+    "displayName":"89+ OP SPECIAL PACK",
+    "description":"Guaranteed 89 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_89",
+    "price":330000
+  },
+  {
+    "id":"toty_10",
+    "displayName":"10% TOTY SPECIAL PACK",
+    "description":"10% chance of getting a Team Of The Year card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_toty_10",
+    "price":250000
+  },
+  {
+    "id":"toty_50",
+    "displayName":"50% TOTY SPECIAL PACK",
+    "description":"50% chance of getting a Team Of The Year card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_toty_50",
+    "price":650000
+  },
+  {
+    "id":"gold_mega",
+    "displayName":"GOLD MEGA PACK",
+    "description":"25% chance of getting at least 1 Special and high odds of getting multiple Specials.",
+    "packCover":"pack_cover_gold_mega",
+    "price":75000
+  },
+  {
+    "id":"rainbow",
+    "displayName":"RAINBOW PACK",
+    "description":"Two Special cards (any type), Libertadores, Sudamericana, Silver Rare, Silver Non-rare, and Bronze Rare cards in one pack.",
+    "packCover":"pack_cover_rainbow",
+    "price":250000
+  },
+  {
+    "id":"bf_six_special",
+    "displayName":"6X SPECIAL PACK",
+    "description":"6 (SIX!) guaranteed Special cards in one pack. Same odds as in the standard Special pack.",
+    "packCover":"pack_cover_special_x6",
+    "price":500000
+  },
+  {
+    "id":"bf_92_special",
+    "displayName":"92+ OP SPECIAL PACK",
+    "description":"Guaranteed 92 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_92",
+    "price":500000
+  },
+  {
+    "id":"toty_5",
+    "displayName":"5% TOTY SPECIAL PACK",
+    "description":"5% chance of getting a Team Of The Year card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_toty_5",
+    "price":125000
+  },
+  {
+    "id":"80+",
+    "displayName":"80+ GOLD PACK",
+    "description":"All Gold cards are 80+. Overall better pack luck than the other standard Gold packs.",
+    "packCover":"pack_cover_80_plus",
+    "price":50000
+  },
+  {
+    "id":"fatal_nonrare",
+    "displayName":"FATAL NONRARE PACK",
+    "description":"5 Non-Rare Gold cards you selected in Fatal player picks. Plus, 4 Sudmericana cards.",
+    "packCover":"pack_cover_fatal_nonrare",
+    "price":400000
+  },
+  {
+    "id":"tots_20",
+    "displayName":"20% TOTS SPECIAL PACK",
+    "description":"20% chance of getting a Team Of The Season card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_tots_20",
+    "price":240000
+  },
+  {
+    "id":"bf_87_special",
+    "displayName":"87+ OP SPECIAL PACK",
+    "description":"Guaranteed 87 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_87",
+    "price":270000
+  },
+  {
+    "id":"silver",
+    "displayName":"SILVER PACK",
+    "description":"9 randomly selected Silver Rare and Non-Rare cards. Special Silvers are hard to pack.",
+    "packCover":"pack_cover_silver",
+    "price":5000
+  },
+  {
+    "id":"bf_90_special",
+    "displayName":"90+ OP SPECIAL PACK",
+    "description":"Guaranteed 90 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_90",
+    "price":400000
+  },
+  {
+    "id":"bf_nine_special",
+    "displayName":"9X SPECIAL PACK",
+    "description":"9 (NINE!) guaranteed Special cards in one pack. Same odds as in the standard Special pack.",
+    "packCover":"pack_cover_special_x9",
+    "price":650000
+  },
+  {
+    "id":"toty_20",
+    "displayName":"20% TOTY SPECIAL PACK",
+    "description":"20% chance of getting a Team Of The Year card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_toty_20",
+    "price":350000
+  },
+  {
+    "id":"fatal_rare",
+    "displayName":"FATAL RARE PACK",
+    "description":"5 Rare Gold cards you selected in Fatal player picks. Plus, 4 high-rated (83+) Rare Gold cards.",
+    "packCover":"pack_cover_fatal_rare",
+    "price":400000
+  },
+  {
+    "id":"bf_93_special",
+    "displayName":"93+ OP SPECIAL PACK",
+    "description":"Guaranteed 93 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_93",
+    "price":570000
+  },
+  {
+    "id":"fatal_special",
+    "displayName":"FATAL SPECIAL PACK",
+    "description":"5 Special cards you selected in Fatal player picks, 1 Foundation card, and 3 more random Special cards.",
+    "packCover":"pack_cover_fatal_special",
+    "price":400000
+  },
+  {
+    "id":"double_special",
+    "displayName":"DOUBLE SPECIAL PACK",
+    "description":"2 guaranteed Special cards in one pack. Plus, better overall pack luck.",
+    "packCover":"pack_cover_double_special",
+    "price":250000
+  },
+  {
+    "id":"triple_special",
+    "displayName":"TRIPLE SPECIAL PACK",
+    "description":"3 (THREE!) guaranteed Special cards in one pack. Same odds as in the standard Special pack.",
+    "packCover":"pack_cover_triple_special",
+    "price":350000
+  },
+  {
+    "id":"gold",
+    "displayName":"GOLD PACK",
+    "description":"At least 4 Rare Gold cards, and much better chances of higher-rated and Special cards than Free Pack.",
+    "packCover":"pack_cover_gold",
+    "price":15000
+  },
+  {
+    "id":"random",
+    "displayName":"100% RANDOM PACK",
+    "description":"All cards are chosen completely RANDOMLY. Huge upside, but don’t blame us if you get unlucky - we don’t set any odds.",
+    "packCover":"pack_cover_random",
+    "price":300000
+  },
+  {
+    "id":"toty_100",
+    "displayName":"100% TOTY SPECIAL PACK",
+    "description":"Guaranteed Team Of The Year (TOTY) card in every pack! Plus, a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_toty_100",
+    "price":1000000
+  },
+  {
+    "id":"tots_30",
+    "displayName":"30% TOTS SPECIAL PACK",
+    "description":"30% chance of getting a Team Of The Season card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_tots_30",
+    "price":320000
+  },
+  {
+    "id":"free",
+    "displayName":"FREE PACK",
+    "description":"Open free and unlimited packs",
+    "packCover":"pack_cover_free",
+    "price":0
+  },
+  {
+    "id":"bf_95_special",
+    "displayName":"95+ OP SPECIAL PACK",
+    "description":"Guaranteed 95 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_95",
+    "price":650000
+  },
+  {
+    "id":"silver_plus",
+    "displayName":"SILVER+ PACK",
+    "description":"Improved odds of packing Special Silver cards compared to the standard Silver pack.",
+    "packCover":"pack_cover_silver_plus",
+    "price":7000
+  },
+  {
+    "id":"no_totw_special",
+    "displayName":"NO TOTW SPECIAL PACK",
+    "description":"Same as the Special pack except for one big difference = the guaranteed Special card cannot be a TOTW card.",
+    "packCover":"pack_cover_no_totw_special",
+    "price":200000
+  },
+  {
+    "id":"fatal_silver",
+    "displayName":"FATAL SILVER PACK",
+    "description":"5 Silver cards you selected in Fatal player picks. Plus, 1 Silver Special and 3 more Silver cards.",
+    "packCover":"pack_cover_fatal_silver",
+    "price":400000
+  },
+  {
+    "id":"85_special",
+    "displayName":"85+ SPECIAL PACK",
+    "description":"Guaranteed 85 or higher rated Special card of any type. Better odds of multiple Specials as well.",
+    "packCover":"pack_cover_85_special",
+    "price":250000
+  },
+  {
+    "id":"bf_88_special",
+    "displayName":"88+ OP SPECIAL PACK",
+    "description":"Guaranteed 88 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_88",
+    "price":290000
+  },
+  {
+    "id":"bf_four_special",
+    "displayName":"4X SPECIAL PACK",
+    "description":"4 (FOUR!) guaranteed Special cards in one pack. Same odds as in the standard Special pack.",
+    "packCover":"pack_cover_special_x4",
+    "price":400000
+  },
+  {
+    "id":"bf_seven_special",
+    "displayName":"7X SPECIAL PACK",
+    "description":"7 (SEVEN!) guaranteed Special cards in one pack. Same odds as in the standard Special pack.",
+    "packCover":"pack_cover_special_x7",
+    "price":550000
+  },
+  {
+    "id":"toty_30",
+    "displayName":"30% TOTY SPECIAL PACK",
+    "description":"30% chance of getting a Team Of The Year card in every pack, plus a guaranteed Special card with good rating odds.",
+    "packCover":"pack_cover_toty_30",
+    "price":500000
+  },
+  {
+    "id":"special",
+    "displayName":"SPECIAL PACK",
+    "description":"Guaranteed Special card (can be any card type and rating), and higher-rated Gold cards.",
+    "packCover":"pack_cover_special",
+    "price":150000
+  },
+  {
+    "id":"bf_86_special",
+    "displayName":"86+ OP SPECIAL PACK",
+    "description":"Guaranteed 86 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_bf_green",
+    "price":250000
+  },
+  {
+    "id":"bf_91_special",
+    "displayName":"91+ OP SPECIAL PACK",
+    "description":"Guaranteed 91 or higher rated Special card with 100% randomly selected rating. Incredible opportunity to get a top card.",
+    "packCover":"pack_cover_special_91",
+    "price":450000
+  },
+  {
+    "id":"op_special",
+    "displayName":"OP SPECIAL PACK",
+    "description":"Overpowered version of the Special Pack. Better odds of multiple Specials, and higher average rating.",
+    "packCover":"pack_cover_op_special",
+    "price":250000
+  },
+  {
+    "id":"fatal_bronze",
+    "displayName":"FATAL BRONZE PACK",
+    "description":"5 Bronze cards you selected in Fatal player picks. Plus, another 4 Bronze cards.",
+    "packCover":"pack_cover_fatal_bronze",
+    "price":400000
+  }
+]
