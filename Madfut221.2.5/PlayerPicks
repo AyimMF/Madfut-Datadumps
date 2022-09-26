@@ -1,0 +1,149 @@
+[
+  {
+    "id":"pp_sbc_real_madrid_icons",
+    "displayName":"REAL MADRID ICONS",
+    "description":"5 Icon Cards of legendary Real Madrid attackers, midfielders and defenders.",
+    "packCover":"pp_cover_icon",
+    "price":0
+  },
+  {
+    "id":"pp_new_87_91",
+    "displayName":"NEW 87-91 PICK",
+    "description":"4 Guaranteed New cards (unless you have all already). A mix of Special and Gold cards. Ratings: 87-91.",
+    "packCover":"pp_cover_new_87_91",
+    "price":250000
+  },
+  {
+    "id":"pp_fut_champs",
+    "displayName":"FUT CHAMPS PICK",
+    "description":"5 FUT CHAMPS cards from any (past and current) weeks. Super high odds of New cards. Ratings: 79-93.",
+    "packCover":"pp_cover_fut_champs",
+    "price":200000
+  },
+  {
+    "id":"pp_new_81_84",
+    "displayName":"NEW 81-84 PICK",
+    "description":"5 Guaranteed New cards (unless you have all already). A mix of Special and Gold cards. Ratings: 81-84.",
+    "packCover":"pp_cover_new_81_84",
+    "price":70000
+  },
+  {
+    "id":"pp_special",
+    "displayName":"SPECIAL PICK",
+    "description":"5 Guaranteed Special cards. Ratings range: 78-86. Decent odds of packing New cards.",
+    "packCover":"pp_cover_special",
+    "price":120000
+  },
+  {
+    "id":"pp_special_88_92",
+    "displayName":"SPECIAL 88-92 PICK",
+    "description":"4 Guaranteed Special cards. Ratings range: 88-92. Good odds of packing New cards.",
+    "packCover":"pp_cover_special_88_92",
+    "price":250000
+  },
+  {
+    "id":"pp_best_1",
+    "displayName":"SUPER PICK",
+    "description":"High probability of New cards and high-rated Special cards. Gold ratings: 86-91. Special ratings: 80-88.",
+    "packCover":"pp_cover_best",
+    "price":150000
+  },
+  {
+    "id":"pp_new_83_86",
+    "displayName":"NEW 83-86 PICK",
+    "description":"5 Guaranteed New cards (unless you have all already). A mix of Special and Gold cards. Ratings: 83-86.",
+    "packCover":"pp_cover_new_83_86",
+    "price":100000
+  },
+  {
+    "id":"pp_new_77_82",
+    "displayName":"NEW 77-82 PICK",
+    "description":"5 Guaranteed New cards (unless you have all already). A mix of Special and Gold cards. Ratings: 77-82.",
+    "packCover":"pp_cover_new_77_82",
+    "price":50000
+  },
+  {
+    "id":"pp_new_85_88",
+    "displayName":"NEW 85-88 PICK",
+    "description":"4 Guaranteed New cards (unless you have all already). A mix of Special and Gold cards. Ratings: 85-88.",
+    "packCover":"pp_cover_new_85_88",
+    "price":150000
+  },
+  {
+    "id":"pp_bad_1",
+    "displayName":"STANDARD PICK",
+    "description":"Mostly Gold cards, with some Specials. Good odds of New cards. Gold ratings: 83-87. Special ratings: 77-85.",
+    "packCover":"pp_cover_bad",
+    "price":40000
+  },
+  {
+    "id":"pp_totw",
+    "displayName":"TOTW PICK",
+    "description":"5 Gold TOTW cards from any (past and current) weeks. Super high odds of New cards. Ratings: 79-93.",
+    "packCover":"pp_cover_totw",
+    "price":100000
+  },
+  {
+    "id":"pp_new_special",
+    "displayName":"NEW SPECIAL PICK",
+    "description":"3 Guaranteed NEW SPECIAL cards (unless you have all already). Wide ratings range: 75-91.",
+    "packCover":"pp_cover_new_special",
+    "price":200000
+  },
+  {
+    "id":"pp_icons_86_92",
+    "displayName":"ICONS 86-92 PICK",
+    "description":"3 Icon cards with an improved Ratings range: 86-92. Very high odds of having at least 1 New Icon.",
+    "packCover":"pp_cover_icons_86_92",
+    "price":300000
+  },
+  {
+    "id":"pp_mega",
+    "displayName":"MEGA PICK",
+    "description":"Very high-rated Special cards and mega chances of New cards. Gold ratings: 88-91. Special ratings: 86-94!",
+    "packCover":"pp_cover_mega",
+    "price":300000
+  },
+  {
+    "id":"pp_good_1",
+    "displayName":"IMPROVED PICK",
+    "description":"Mix of Gold and Special cards. Higher odds of New and Special cards. Gold ratings: 85-89. Special ratings: 77-87.",
+    "packCover":"pp_cover_good",
+    "price":80000
+  },
+  {
+    "id":"pp_icon",
+    "displayName":"ICONS PICK",
+    "description":"5 Icon cards. Ratings range: 85-88. Extremely high odds of having at least 1 New Icon.",
+    "packCover":"pp_cover_icon",
+    "price":200000
+  },
+  {
+    "id":"pp_special_83_86",
+    "displayName":"SPECIAL 83-86 PICK",
+    "description":"5 Guaranteed Special cards. Ratings range: 83-86. Decent odds of packing New cards.",
+    "packCover":"pp_cover_special_83_86",
+    "price":150000
+  },
+  {
+    "id":"pp_special_81_84",
+    "displayName":"SPECIAL 81-84 PICK",
+    "description":"5 Guaranteed Special cards. Ratings range: 81-84. Decent odds of packing New cards.",
+    "packCover":"pp_cover_special_81_84",
+    "price":100000
+  },
+  {
+    "id":"pp_special_85_88",
+    "displayName":"SPECIAL 85-88 PICK",
+    "description":"4 Guaranteed Special cards. Ratings range: 85-88. Decent odds of packing New cards.",
+    "packCover":"pp_cover_special_85_88",
+    "price":180000
+  },
+  {
+    "id":"pp_special_86_89",
+    "displayName":"SPECIAL 86-89 PICK",
+    "description":"4 Guaranteed Special cards. Ratings range: 86-89. Decent odds of packing New cards.",
+    "packCover":"pp_cover_special_86_89",
+    "price":250000
+  }
+]
